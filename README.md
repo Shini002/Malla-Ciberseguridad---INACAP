@@ -13,6 +13,11 @@ La malla interactiva permite ver todos los ramos del plan de estudios, junto con
 - **JavaScript**: Interactividad y lógica de prerrequisitos
 - **JSON**: Almacenamiento de ramos
 
+## 👀 Vista previa
+
+![Vista previa de la malla interactiva](<img width="1850" height="932" alt="image" src="https://github.com/user-attachments/assets/ce087787-6b18-4c00-a12c-308b529b6980" />
+)
+
 ## ⚡ ¿Cómo acceder a la malla interactiva?
 
 ¡Accede directamente desde tu navegador, sin instalar nada!  
