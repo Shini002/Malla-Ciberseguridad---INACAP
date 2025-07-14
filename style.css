@@ -1,0 +1,106 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #0e0e0e;
+    color: #f8f8f8;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #c084fc;
+    text-shadow: 2px 2px 4px #000;
+    margin-bottom: 10px;
+}
+
+#leyenda {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.legend {
+    margin: 0 10px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.legend.aprobado { background-color: #7c3aed; color: #fff; }
+.legend.reprobado { background-color: #7f1d1d; color: #fff; }
+.legend.curso { background-color: #a21caf; color: #fff; }
+
+.bloqueado { 
+    opacity: 0.4; 
+    pointer-events: none;
+    filter: grayscale(100%);
+}
+
+#malla {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    gap: 10px;
+    padding: 20px;
+    overflow-x: auto;
+}
+
+.semestre {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #1f1f1f;
+    border: 2px solid #6b21a8;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.semestre h3 {
+    color: #a855f7;
+    text-align: center;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.card {
+    background-color: #2e2e2e;
+    border: 2px solid #7c3aed;
+    border-radius: 8px;
+    padding: 8px;
+    margin: 5px 0;
+    width: 100%;
+    text-align: center;
+    cursor: pointer;
+    transition: 0.3s;
+    color: #f0f0f0;
+}
+
+.card.aprobado {
+    background-color: #7c3aed;
+    border-color: #a855f7;
+    color: #fff;
+}
+
+.card.reprobado {
+    background-color: #7f1d1d;
+    border-color: #b91c1c;
+    color: #fff;
+}
+
+.card.curso {
+    background-color: #a21caf;
+    border-color: #db2777;
+    color: #fff;
+}
+
+.card:hover {
+    box-shadow: 0 0 10px #a855f7;
+}
+
+.card .info, .nota {
+    font-size: 0.8em;
+    color: #d4d4d4;
+    margin-top: 5px;
+}
+
+.nota {
+    font-weight: bold;
+}

@@ -1,0 +1,265 @@
+[
+    {
+        "nombre": "Formación Ciudadana",
+        "semestre": 1,
+        "prerequisitos": []
+    },
+    {
+        "nombre": "Resolución de Problemas en Álgebra",
+        "semestre": 1,
+        "prerequisitos": []
+    },
+    {
+        "nombre": "Introducción a la Programación Segura",
+        "semestre": 1,
+        "prerequisitos": []
+    },
+    {
+        "nombre": "Fundamentos de Base de Datos",
+        "semestre": 1,
+        "prerequisitos": []
+    },
+    {
+        "nombre": "Fundamentos de Hardware y Software",
+        "semestre": 1,
+        "prerequisitos": []
+    },
+    {
+        "nombre": "Administración",
+        "semestre": 2,
+        "prerequisitos": []
+    },
+    {
+        "nombre": "Funciones y Matrices",
+        "semestre": 2,
+        "prerequisitos": [
+            "Resolución de Problemas en Álgebra"
+        ]
+    },
+    {
+        "nombre": "Programación Orientada a Objeto Seguro",
+        "semestre": 2,
+        "prerequisitos": [
+            "Introducción a la Programación Segura"
+        ]
+    },
+    {
+        "nombre": "Bases de Datos Estructuradas",
+        "semestre": 2,
+        "prerequisitos": []
+    },
+    {
+        "nombre": "Metodología de Desarrollo Ágil",
+        "semestre": 2,
+        "prerequisitos": []
+    },
+    {
+        "nombre": "Modelamiento de Soluciones Informáticas",
+        "semestre": 2,
+        "prerequisitos": []
+    },
+    {
+        "nombre": "Innovación y Emprendimiento I",
+        "semestre": 3,
+        "prerequisitos": []
+    },
+    {
+        "nombre": "Programación Front End",
+        "semestre": 3,
+        "prerequisitos": []
+    },
+    {
+        "nombre": "Bases de Datos No Estructuradas",
+        "semestre": 3,
+        "prerequisitos": [
+            "Bases de Datos Estructuradas"
+        ]
+    },
+    {
+        "nombre": "Fundamentos de Seguridad de la Información",
+        "semestre": 3,
+        "prerequisitos": []
+    },
+    {
+        "nombre": "Sistemas Operativos",
+        "semestre": 3,
+        "prerequisitos": []
+    },
+    {
+        "nombre": "Electivo de Tendencias del Sector Productivo y de Servicios I",
+        "semestre": 3,
+        "prerequisitos": []
+    },
+    {
+        "nombre": "Inglés Inicial",
+        "semestre": 4,
+        "prerequisitos": []
+    },
+    {
+        "nombre": "Programación Back End",
+        "semestre": 4,
+        "prerequisitos": []
+    },
+    {
+        "nombre": "Aplicaciones Móviles para IoT",
+        "semestre": 4,
+        "prerequisitos": []
+    },
+    {
+        "nombre": "Ingeniería de Software",
+        "semestre": 4,
+        "prerequisitos": []
+    },
+    {
+        "nombre": "Proyecto Integrado",
+        "semestre": 4,
+        "prerequisitos": [
+            "Programación Orientada a Objeto Seguro",
+            "Bases de Datos No Estructuradas",
+            "Sistemas Operativos"
+        ]
+    },
+    {
+        "nombre": "Electivo de Tendencias del Sector Productivo y de Servicios II",
+        "semestre": 4,
+        "prerequisitos": []
+    },
+    {
+        "nombre": "Gestión de Personas",
+        "semestre": 5,
+        "prerequisitos": []
+    },
+    {
+        "nombre": "Cálculo Diferencial",
+        "semestre": 5,
+        "prerequisitos": [
+            "Funciones y Matrices"
+        ]
+    },
+    {
+        "nombre": "Arquitectura On-Premise y On-Cloud",
+        "semestre": 5,
+        "prerequisitos": []
+    },
+    {
+        "nombre": "Gestión de la Ciberseguridad",
+        "semestre": 5,
+        "prerequisitos": []
+    },
+    {
+        "nombre": "Redes de Datos",
+        "semestre": 5,
+        "prerequisitos": []
+    },
+    {
+        "nombre": "Innovación y Emprendimiento II",
+        "semestre": 5,
+        "prerequisitos": [
+            "Innovación y Emprendimiento I"
+        ]
+    },
+    {
+        "nombre": "Finanzas",
+        "semestre": 6,
+        "prerequisitos": []
+    },
+    {
+        "nombre": "Diseño de Arquitecturas de Seguridad TI",
+        "semestre": 6,
+        "prerequisitos": [
+            "Arquitectura On-Premise y On-Cloud"
+        ]
+    },
+    {
+        "nombre": "Seguridad en Redes",
+        "semestre": 6,
+        "prerequisitos": [
+            "Redes de Datos"
+        ]
+    },
+    {
+        "nombre": "Seguridad IoT",
+        "semestre": 6,
+        "prerequisitos": []
+    },
+    {
+        "nombre": "Desarrollo Seguro",
+        "semestre": 6,
+        "prerequisitos": []
+    },
+    {
+        "nombre": "Inglés Habilitante",
+        "semestre": 6,
+        "prerequisitos": [
+            "Inglés Inicial"
+        ]
+    },
+    {
+        "nombre": "Formulación y Gestión de Proyectos",
+        "semestre": 7,
+        "prerequisitos": []
+    },
+    {
+        "nombre": "Hacking Ético",
+        "semestre": 7,
+        "prerequisitos": []
+    },
+    {
+        "nombre": "Legislación",
+        "semestre": 7,
+        "prerequisitos": []
+    },
+    {
+        "nombre": "Auditoría IT/OT",
+        "semestre": 7,
+        "prerequisitos": []
+    },
+    {
+        "nombre": "Análisis Forense",
+        "semestre": 7,
+        "prerequisitos": []
+    },
+    {
+        "nombre": "Inglés Intermedio",
+        "semestre": 7,
+        "prerequisitos": [
+            "Inglés Habilitante"
+        ]
+    },
+    {
+        "nombre": "Gestión de Proyectos de Ciberseguridad",
+        "semestre": 8,
+        "prerequisitos": []
+    },
+    {
+        "nombre": "Gobierno de Seguridad de la Información",
+        "semestre": 8,
+        "prerequisitos": []
+    },
+    {
+        "nombre": "Innovación y Emprendimiento III",
+        "semestre": 8,
+        "prerequisitos": [
+            "Innovación y Emprendimiento II"
+        ]
+    },
+    {
+        "nombre": "Proyecto de Título Profesional",
+        "semestre": 8,
+        "prerequisitos": [
+            "Formulación y Gestión de Proyectos",
+            "Legislación",
+            "Auditoría IT/OT"
+        ]
+    },
+    {
+        "nombre": "Electivo de Tendencias del Sector Productivo y de Servicios III",
+        "semestre": 8,
+        "prerequisitos": []
+    },
+    {
+        "nombre": "Electivo de Tendencias del Sector Productivo y de Servicios IV",
+        "semestre": 8,
+        "prerequisitos": []
+    }
+]
