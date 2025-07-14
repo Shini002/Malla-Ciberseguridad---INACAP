@@ -15,7 +15,7 @@ La malla interactiva permite ver todos los ramos del plan de estudios, junto con
 
 ## 👀 Vista previa
 
-![Vista previa de la malla interactiva](<img width="1850" height="932" alt="screenshot" src="https://github.com/user-attachments/assets/03c52632-154f-4f1c-b43d-7d4b5cb563cb" />)
+![Vista previa de la malla interactiva](./screenshot.png)
 
 ## ⚡ ¿Cómo acceder a la malla interactiva?
 
